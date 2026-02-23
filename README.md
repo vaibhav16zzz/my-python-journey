@@ -1,13 +1,27 @@
-# My Python Journey
+Python Learning Journey
 
-This repository contains programs I build while learning Python.
+This repository contains Python programs created while learning Python.
 
-## Programs:
+Programs
 
-1. basic_calculator_v1.py → My first calculator program
+1. Basic Calculator v1
 
-More coming soon.
+Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-Author: Vaibhav Kale
+File: "basic_calculator_v1.py"
 
-Start Date: Feb 2026
+---
+
+2. RGPV Result Analyzer
+
+Analyzes marks for 5 subjects and shows total, average, percentage, strongest subject, and weakest subject.
+
+File: "rgpv_result_analyzer.py"
+
+---
+
+More programs will be added as I continue learning.
+
+Author
+
+Vaibhav Kale
