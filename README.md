@@ -1,4 +1,4 @@
-A collection of Python programs demonstrating practical applications of programming concepts.
+A collection of Python programs made by me (Vaibhav Kale) demonstrating practical applications of programming concepts.
 
 ---
 
