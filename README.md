@@ -1,4 +1,4 @@
-A collection of Python programs made by me (Vaibhav Kale) demonstrating practical applications of programming concepts.
+A collection of Python programs made by me demonstrating practical applications of programming concepts.
 
 ---
 
@@ -19,4 +19,4 @@ A collection of Python programs made by me (Vaibhav Kale) demonstrating practica
 
 ---
 
-**Created by:** Vaibhav Kale
+**Created by :** Vaibhav Kale
