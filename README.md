@@ -19,6 +19,4 @@ A collection of Python programs made by me (Vaibhav Kale) demonstrating practica
 
 ---
 
-**More projects coming soon!**  
-
 **Created by:** Vaibhav Kale
