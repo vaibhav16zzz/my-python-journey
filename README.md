@@ -1,9 +1,9 @@
-A collection of Python programs made by me demonstrating practical applications of programming concepts (beginner) 💻
+A collection of Python programs made by me demonstrating practical applications of programming concepts (beginner)
 
 ---
 
 ## Personal Expense Tracker 💵
-**Best one in this repository)**
+**Best one in this repository**
   
 - Track your monthly/yearly budget and expenses across multiple categories.  
 - Calculates total spent, average per category, highest & lowest expense, remaining balance, and percentage saved.  
