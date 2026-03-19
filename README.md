@@ -3,7 +3,7 @@ A collection of Python programs made by me demonstrating practical applications 
 ---
 
 ## Personal Expense Tracker 
-**(best one in this repository)**
+**Best one in this repository)*
   
 - Track your monthly/yearly budget and expenses across multiple categories.  
 - Calculates total spent, average per category, highest & lowest expense, remaining balance, and percentage saved.  
