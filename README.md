@@ -19,6 +19,19 @@ A collection of Python programs made by me demonstrating practical applications 
 - Add, subtract, multiply, and divide two numbers, power calculations are possible too.
 - A simple, practical introduction to Python basics.  
 
+## Profile Validator ✅
+
+A simple Python program that validates basic user profile details using predefined rules.
+
+### Validations
+- Username (4–10 characters)
+- Password (minimum 8 characters)
+- Mobile number (exactly 10 digits)
+- Age (18–120)
+- Gender (Male / Female / Other)
+
+The program verifies each input step-by-step and displays an error if any validation fails. If all inputs are valid, the profile is successfully created and the entered details are displayed.
+
 ---
 
-## Created by : Vaibhav Kale
+## 🧑🏻‍💻 Author : Vaibhav Kale
